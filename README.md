@@ -23,7 +23,7 @@ This project is a microcontroller based simulation of a microwave oven built usi
   - 4x3 Matrix Keypad for input
 
 - 📟 Display:
-  - 16x2 CLCD interface (4-bit mode)
+  - 16x4 CLCD interface (4-bit mode)
 
 - ⚙️ Controls:
   - Start, Pause, Resume, Stop
